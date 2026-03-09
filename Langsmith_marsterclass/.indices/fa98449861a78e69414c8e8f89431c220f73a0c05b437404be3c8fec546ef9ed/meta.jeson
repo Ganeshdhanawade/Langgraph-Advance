@@ -1,0 +1,6 @@
+{
+  "pdf_path": "/home/ganesh/Analysis/my_project/langgraph_campusx/Langsmith_marsterclass/islr.pdf",
+  "chunk_size": 1000,
+  "chunk_overlap": 150,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+}
