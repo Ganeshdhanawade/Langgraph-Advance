@@ -1,0 +1,58 @@
+# langgraph
+# langchain_openai
+# langchain_groq
+# ipykernel
+# python-dotenv
+# langchain
+# streamlit
+# faiss-cpu
+# pypdf
+# sentence-transformers 
+# langchain-huggingface
+
+# langgraph-checkpoint-sqlite
+
+# ============================================================
+# Requirements for LangGraph + Groq + HuggingFace + FAISS App
+# Python 3.11 Compatible — All Dependency Conflicts Fixed
+# ============================================================
+
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM Provider
+langchain-groq
+groq
+
+# Embeddings — CORRECT VERSIONS
+langchain-huggingface
+sentence-transformers        # ← MUST be >=2.6.0
+transformers
+tokenizers
+huggingface-hub
+
+# Vector Store
+faiss-cpu
+
+# LangGraph
+langgraph
+langgraph-checkpoint
+langgraph-prebuilt
+
+# PDF Loading
+pypdf
+
+# Environment Variables
+python-dotenv
+
+# Supporting Dependencies
+pydantic
+pydantic-core
+httpx
+tenacity
+orjson
+SQLAlchemy
+langsmith

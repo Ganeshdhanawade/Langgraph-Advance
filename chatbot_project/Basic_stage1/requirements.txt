@@ -1,0 +1,14 @@
+langgraph
+langchain_openai
+langchain_groq
+ipykernel
+python-dotenv
+langchain
+streamlit
+langchain_huggingface
+langchain_community
+pypdf
+sentence-transformers
+faiss-cpu
+
+langgraph-checkpoint-sqlite
